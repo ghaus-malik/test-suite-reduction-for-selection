@@ -1,0 +1,9 @@
+# Tested with Python 3.12 on macOS (Apple silicon). MLX runs the local models.
+mlx==0.32.4
+mlx-lm==0.32.2
+transformers==5.22.1
+datasets==5.1.0
+huggingface_hub==2.4.0
+numpy==2.5.4
+matplotlib==3.11.2
+psutil==7.2.2
