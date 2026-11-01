@@ -98,6 +98,6 @@ Companion projects with the same samples: `judge-gaming-best-of-n` and `metamorp
   author = {Muhammad Ghaus Malik},
   title  = {How Few Tests Does a Verifier Need? Test-Suite Reduction for Best-of-n Selection},
   year   = {2026},
-  note   = {Pilot study, code and data}
+  note   = {Code and data}
 }
 ```
